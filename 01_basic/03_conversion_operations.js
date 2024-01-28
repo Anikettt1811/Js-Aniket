@@ -42,7 +42,7 @@ let negValue = -value
 // console.log(2%3);    //modulus
 
 let str1 = "hello"
-let str2 = " hitesh"
+let str2 = " aniket"
 
 let str3 = str1 + str2
 // console.log(str3);
